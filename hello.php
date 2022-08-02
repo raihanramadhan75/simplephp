@@ -1,3 +1,3 @@
 <?php
-	echo "hello indonesia";
+	echo "hello asia";
 ?>
